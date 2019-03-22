@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BANK001-A.WAV</file>
+        <file>BANK001-L16.WAV</file>
+        <file>APU_FIRE.wav</file>
+    </qresource>
+</RCC>
